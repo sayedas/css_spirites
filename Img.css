@@ -1,0 +1,22 @@
+.bg-image1 {
+    width: 500px; height: 200px;
+    background: url('css_sprites.png') -10px -461px;
+}
+
+.bg-image2 {
+    width: 499px; height: 340px;
+    background: url('css_sprites.png') -745px -10px;
+}
+
+.bg-image3 {
+    width: 715px; height: 431px;
+    background: url('css_sprites.png') -10px -10px;
+}
+
+/* .photo {
+    text-align: center; /*for centering images inside*/
+}
+/* .photo .imgs {
+    width: 300px; /*set the width or max-width*/
+    /* height: auto; /*this makes sure to maintain the aspect ratio*/ */ */
+} */
